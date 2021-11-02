@@ -1,0 +1,15 @@
+Nombre del grupo: Grupo 5
+
+Nombre y roll:
+
+Omar Orlando Flórez Mahecha: desarrollador
+Sergio Andrés Mendoza Martínez: Product owner
+Raimon Castellanos Sánchez: Scrum Máster
+Joan Steve: desarrollador
+
+Proyecto a trabajar Proyecto propuesto.
+
+Enlace Trello: https://trello.com/b/s3ONOREK/work-request-and-intake-process
+Enlace GitHub: https://github.com/ooflorezm/CICLO_4.git
+
+
